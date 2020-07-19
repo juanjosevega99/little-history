@@ -1,2 +1,2 @@
 # Project in CSS
-Photos like pinterest
+Photos like pinterest in pure CSS.
