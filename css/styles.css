@@ -5,7 +5,7 @@ body {
   margin: 0;
   color: white;
   font-family: 'Roboto', sans-serif;
-  background: linear-gradient(to right, black, purple);
+  background: linear-gradient(to right, black, black, purple, purple);
 }
 
 .wrapper {
@@ -35,7 +35,7 @@ body {
 .grid {
   border-radius: 5px;
   padding: 5px;
-  background: #f2f2f2;
+  background: #dbdbdb;
   color: black
 }
 
@@ -48,4 +48,8 @@ body {
 }
 .grid p {
   font-size: 14px;
+}
+
+footer p {
+  text-align: center;
 }
